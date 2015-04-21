@@ -1,5 +1,5 @@
 @extends('layout')
 
 @section('content')
-	Users!
+	ららべる えらべる
 @stop
